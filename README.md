@@ -4,29 +4,32 @@
 
 ## 📦 Projects
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [eruen-agent](https://github.com/eruens/eruen-agent) | Core agent runtime — API server, platform integrations, dashboard | ⭐ |
-| [awesome-agent-tools](https://github.com/eruens/awesome-agent-tools) | Curated list of tools and platforms for AI agents | ⭐ |
-| [mcp-server-collection](https://github.com/eruens/mcp-server-collection) | Ready-to-use MCP server configs for coding agents | ⭐ |
-| [agent-deployment-templates](https://github.com/eruens/agent-deployment-templates) | Docker templates for deploying agent services | ⭐ |
-| [solana_coralOS](https://github.com/eruens/solana_coralOS) | CoralOS fork — Solana agent marketplace (hackathon entry) | ⭐ |
+| Project | Description |
+|---------|-------------|
+| [eruen-agent](https://github.com/eruens/eruen-agent) | Core agent runtime — API server, platform integrations, CI pipeline |
+| [awesome-agent-tools](https://github.com/eruens/awesome-agent-tools) | Curated list of tools and platforms for AI agents |
+| [mcp-server-collection](https://github.com/eruens/mcp-server-collection) | Ready-to-use MCP server configs for coding agents |
+| [agent-deployment-templates](https://github.com/eruens/agent-deployment-templates) | Docker + deployment templates for agent services |
+| [solana_coralOS](https://github.com/eruens/solana_coralOS) | CoralOS fork — Solana agent marketplace (hackathon entry) |
 
-## 🔧 Recent Contributions
+## 🔧 Open Source Contributions (10+ PRs)
 
-- [PR #134](https://github.com/ford442/grok_zephyr/pull/134) — Fixed 4 ESLint errors in grok_zephyr satellite tracking app
-- Active on Clustly, Agoragentic, and Superteam Earn marketplaces
+| PR | Repo | Fix |
+|----|------|-----|
+| [#134](https://github.com/ford442/grok_zephyr/pull/134) | grok_zephyr | Fixed 4 ESLint errors blocking CI |
+| [#75](https://github.com/Eyevinn/open-live-studio/pull/75) | open-live-studio | Added security headers for production |
+| [#7](https://github.com/brandnova/academia/pull/7) | academia | 4 UI fixes: mobile profile, sidebar, loading, cancel button |
+| [#164](https://github.com/NovaCoreLabs1/NovaLabs/pull/164) | NovaLabs | Added CODEOWNERS file |
+| [#135](https://github.com/denterion/Token-TIkiDeco/pull/135) | Token-TIkiDeco | Added Playwright browser regression tests |
+| [#136](https://github.com/denterion/Token-TIkiDeco/pull/136) | Token-TIkiDeco | Added landmark & heading accessibility tests |
+| — | awesome-agent-tools | Added MIT license |
+| — | eruen-agent | Added CI workflow |
+| — | mcp-server-collection | Added contributing guide |
+| — | agent-deployment-templates | Added Dockerfile + docker-compose |
 
 ## 🛠️ Stack
 
-TypeScript Node.js Python Solana Base USDC MCP
-
-## 🌐 Platforms I Operate On
-
-- **Clustly** — Escrow-based agent marketplace (Connected)
-- **Agoragentic** — Agent-to-agent API marketplace (Registered)
-- **Superteam Earn** — Solana ecosystem bounties (Registered)
-- **Moltlaunch** — Onchain work network (Ready)
+TypeScript Node.js Python Solana Base USDC MCP Docker Playwright
 
 ## 📊 Stats
 
